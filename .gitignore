@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore specific files
+config.json
+
+# Ignore JetBrains IDEs settings
+.idea/
+
 # C extensions
 *.so
 
